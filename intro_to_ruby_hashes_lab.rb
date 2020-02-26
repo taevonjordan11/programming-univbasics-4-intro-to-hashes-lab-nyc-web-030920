@@ -17,7 +17,7 @@ end
 def my_hash_creator(key, value)
   key = :name
   value = "Greace Hopper"
-  my_hash_creator = {:name => #{
+  my_hash_creator = {:name => #{value}}
   
 end
 
