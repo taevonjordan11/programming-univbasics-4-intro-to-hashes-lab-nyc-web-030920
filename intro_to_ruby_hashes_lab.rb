@@ -15,7 +15,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  taevon_hash = {:key => value}
+  taevon_hash = {:name => value}
   
 end
 
