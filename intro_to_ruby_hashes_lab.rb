@@ -16,7 +16,7 @@ end
 
 def my_hash_creator(key, value)
  taevon_hash= {}
-taevon_hash[:name]="Grace Hopper"
+taevon_hash[:key] = "value"
 return taevon_hash
 end
 
